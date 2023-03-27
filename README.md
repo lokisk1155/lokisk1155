@@ -9,9 +9,12 @@
   </a>
 </h2>
 
+
+
 <!-- ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
  -->
  <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokisk1155&label=Profile%20views&color=0e75b6&style=flat" alt="lokisk1155" /> </p>
 <code><img title="ruby" alt="ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
 <code><img title="rails" alt="rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /></code>
 <code><img title="react" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
