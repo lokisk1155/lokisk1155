@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  What's Gucci! 
+  Welcome to my page!
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
  </h1>
 <h2 align="center">
