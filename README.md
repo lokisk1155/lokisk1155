@@ -3,11 +3,11 @@
     <img src="https://komarev.com/ghpvc/?username=lokisk1155&label=Profile%20views&color=0e75b6&style=flat" alt="lokisk1155" />
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
  </h1>
-<h2 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;constantly+learning&color=f75c7e&center=true&vCenter=true">
   </a>
-</h2>
+</div>
 
 
 
