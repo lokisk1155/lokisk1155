@@ -14,7 +14,7 @@
 
 <div align="center">
   <span>Founder and lead dev of </span> 
- <a href="https://www.gamedayai.app/menu">
+ <a href="https://www.gamedayai.app/">
     Gameday ai, Inc
  </a>
 </div>
